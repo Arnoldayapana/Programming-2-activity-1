@@ -1,4 +1,3 @@
-package FirstYear;
 
 public class STRINGCONTAINONLYDIGITS {
 
